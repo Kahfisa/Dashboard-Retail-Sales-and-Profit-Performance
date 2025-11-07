@@ -27,7 +27,7 @@ Link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 <img width="1364" height="767" alt="image" src="https://github.com/user-attachments/assets/d910c76c-05af-4f71-9393-a9d96bfa3cc3" />
 
-Logo Source: freepik
+Logo Source: [freepik](https://www.freepik.com/)
 
 ## Insight
 
