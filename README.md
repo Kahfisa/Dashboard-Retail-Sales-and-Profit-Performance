@@ -30,7 +30,11 @@ Link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 Logo Source: [freepik](https://www.freepik.com/)
 
 ## Insight
-
+- The number of transactions in Q1 tends to be relatively low each year but begins to rise in March. In Q2, the number of transactions remains relatively stable, with a slight decline in May during 2014 and 2015, while in 2016 and 2017, there was an increase in the same month. Entering Q3, there is a significant rise, especially in September, which marks one of the annual transaction peaks. Meanwhile, in Q4, a decline in transactions occurred in October and December during 2014–2016; however, in 2017, December transactions remained stable, indicating an improvement in the trend toward the end of the year.
+- The fluctuation patterns between the Number of Transactions and Total Sales are almost identical throughout the year. However, two points require further analysis: in December 2016, the graph shows a decline in the number of transactions but an increase in total sales, suggesting higher-value purchases during that period. Meanwhile, in December 2017, the number of transactions remained stable, but total sales decreased, indicating a possible drop in average order value or a shift toward lower-priced products.
+- Most customers come from three major cities: New York, Los Angeles, and San Francisco. These three cities also contribute the highest profits to the company, with respective contributions of $62,036 from New York, $30,440 from Los Angeles, and $17,507 from San Francisco.
+- The product categories that contribute the most to total sales are Phones, Chairs, and Storage.
+- Sean Miller, Tamara Chand, and Raymond Bunch are the top-performing sales contributors, generating revenues of $25,043, $19,052, and $15,117. They are followed by Tom Ashbrook, Adrian Barton, Ken Lonsdale, Sanjit Chand, and Hunter Lopez, who each contribute an average of around $14,000.
 
 
 
