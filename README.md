@@ -1,7 +1,7 @@
 # Retail-Sales-Performance
 
 ## Introduction
-This dashboard provides an overview of retail business performance, displaying key metrics such as total transactions, total customers, total revenue, and profit. It also presents sales and transaction trends over time, breakdowns by product category, profit by city, customer distribution by city, and detailed tables highlighting top performing customers.
+This dashboard provides a comprehensive overview of retail business performance, showcasing key metrics such as total transactions, total customers, total revenue, and total profit. It highlights sales and transaction trends over time, along with detailed breakdowns by product category and profit by city. Additionally, it visualizes customer distribution across different cities and includes detailed tables that highlight top-performing customers.
 
 ## Tools
 - Python
