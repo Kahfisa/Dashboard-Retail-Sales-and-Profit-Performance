@@ -23,7 +23,7 @@ Link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Dashboard Preview
 
-<img width="1365" height="766" alt="image" src="https://github.com/user-attachments/assets/d8c44274-6b61-4639-9e9a-da59e05bd690" />
+<img width="1365" height="766" alt="image" src="https://github.com/user-attachments/assets/4b664518-cb08-4174-b87b-6cf55c0ff3d0" />
 
 <img width="1364" height="767" alt="image" src="https://github.com/user-attachments/assets/d910c76c-05af-4f71-9393-a9d96bfa3cc3" />
 
